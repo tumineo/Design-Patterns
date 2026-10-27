@@ -193,6 +193,6 @@ Possible improvements to the project include:
 
 **Tumelo Neo Mofokeng**
 
-IT Student | Software Developer | Cybersecurity & Cloud Computing Enthusiast
+IT Student | Software Developer & Engineer |  Cybersecurity & Cloud Computing Enthusiast
 
 This project was created as part of my practical learning and coursework in software engineering and design patterns.
