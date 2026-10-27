@@ -1,0 +1,7 @@
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.AssemblyReference.cache
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+D:\School\4th Year\SOE\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb

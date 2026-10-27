@@ -1,0 +1,7 @@
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\bin\Debug\FactoriePattern.exe.config
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\bin\Debug\FactoriePattern.exe
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\bin\Debug\FactoriePattern.pdb
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\obj\Debug\FactoriePattern.csproj.AssemblyReference.cache
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\obj\Debug\FactoriePattern.csproj.CoreCompileInputs.cache
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\obj\Debug\FactoriePattern.exe
+D:\School\4th Year\SOE\FactoriePattern\FactoriePattern\obj\Debug\FactoriePattern.pdb
